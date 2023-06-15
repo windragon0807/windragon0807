@@ -15,13 +15,15 @@
         .container {
             width: 100%;
             height: 300px;
-            padding: 16px;
+            padding: 24px;
             border: 3px solid transparent;
             border-radius: 20px;
             background:
                 linear-gradient(90deg, #fff, #fff) padding-box,
                 linear-gradient(90deg, #FDDE5C, #F8AB5E, #F56A62, #A176C8, #759BEB, #65BEB3, #70DB96) border-box;
-            filter: drop-shadow(0px 3px 3px rgba(0, 0, 0, 0.15));
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
         }
 
         @keyframes textAnim {
@@ -30,29 +32,39 @@
             100% { background-position: 0 50%; }
         }
 
-        @keyframes nudgeText {
-            0% { transform: translateY(0); }
-            20% { transform: translateY(5px); }
-            30% { transform: translateY(0); }
-            50% { transform: translateY(5px); }
-            60% { transform: translateY(0); }
-            80% { transform: translateY(5px); }
-            90% { transform: translateY(0); }
+        .hello {
+            font-size: 28px;
+            font-weight: 700;
         }
 
-        .title {
-            font-size: 20px;
-            font-weight: 700;
-            animation: textAnim 5s ease-out infinite, nudgeText 5s ease-out infinite;
+        .anim_text {
+            animation: textAnim 5s ease-out infinite;
             background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
             background-size: 250% 500%;
             background-clip: text;
             -webkit-background-clip: text;  
             -webkit-text-fill-color: transparent;
         }
+
+        .typing_box {
+            width: 100%;
+            display: flex;
+        }
+
+        .like {
+            font-size: 24px;
+            font-weight: 700;
+            color: #797877;
+        }
       </style>
       <div class='container'>
-        <span class='title'>안녕하세요!!</span>
+        <p class='hello'>👋🏻<span class='anim_text'> 안녕하세요!!</span></p>
+        <p class='hello'><span class='anim_text'>어제보다 나은 코드를 짜는 주니어 개발자 정승룡입니다.</span> 🙂</p>
+        <div class='typing_box'>
+            <span class='like'>저는</span>
+            
+            <span class='like'>좋아합니다.</span>
+        </div>
       </div>
     </div>
   </foreignObject>
