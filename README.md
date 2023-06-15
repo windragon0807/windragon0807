@@ -10,4 +10,7 @@
   <img src="assets/svgs/header.svg" alt="README Header" title="README Header" />
 </div>
 
+<div style="width: 100%;">
+  <img src="assets/svgs/body.svg" alt="README Header" title="README Header" />
+</div>
 <p style="margin-top: 20px; font-size: 20px; font-weight: 700;">안녕하세요</p>
