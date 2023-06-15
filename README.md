@@ -6,12 +6,10 @@
   3. svg 내부에 img 태그 생성 및 src에 base64 encoding image 할당
     # image -> base64 Application URL : https://www.base64-image.de/
 -->
-<div style="width: 100%; display: flex; flex-direction: column; align-items: center; border: 1px solid blue;">
-  <div style="width: 95%; margin-bottom: 10px;">
-    <img src="assets/svgs/header.svg" alt="README Header" title="README Header" />
-  </div>
+<div style="width: 100%; margin-bottom: 10px;">
+  <img src="assets/svgs/header.svg" alt="README Header" title="README Header" />
+</div>
 
-  <div style="width: 95%;">
-    <img src="assets/svgs/body.svg" alt="README Body" title="README Body" />
-  </div>
+<div style="width: 100%;">
+  <img src="assets/svgs/body.svg" alt="README Body" title="README Body" />
 </div>
