@@ -20,6 +20,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&duration=3000&pause=1000&color=3B3D3F&center=true&vCenter=true&width=300&height=30&lines=Feel+free+to+contact+me!+%F0%9F%98%81" alt="Typing SVG" />
 </div>
 
+<br />
+
 <div align='center'>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=tmdfyd95@naver.com" target="_blank">
     <img width="30px" height="30px" src="assets/images/mail.png" />
