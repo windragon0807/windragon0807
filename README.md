@@ -24,18 +24,18 @@
 
 <div align='center'>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=tmdfyd95@naver.com" target="_blank">
-    <img width="30px" height="30px" src="assets/images/mail.png" />
+    <img width="30px" height="30px" src="assets/images/mail.png" title="Mail" />
   </a>
   <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/windragon/">
-    <img width="30px" height="30px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" />
+    <img width="30px" height="30px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" title="LinkedIn" />
   </a>
   <span>&nbsp;</span>
   <a href="https://www.instagram.com/_win._.dragon_/">
-    <img width="30px" height="30px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png" />
+    <img width="30px" height="30px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png" title="Instagram" />
   </a>
   <span>&nbsp;</span>
   <a href="https://careerly.co.kr/profiles/469518?utm_campaign=self-share">
-    <img src="assets/svgs/careerly.svg" />
+    <img width="30px" height="30px" src="assets/svgs/careerly.svg" title="Careerly" />
   </a>
 </div>
