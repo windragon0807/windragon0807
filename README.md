@@ -19,17 +19,21 @@
 <div style="width: 100%;" align='center'>
   <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&duration=3000&pause=1000&color=3B3D3F&center=true&vCenter=true&width=300&height=30&lines=Feel+free+to+contact+me!+%F0%9F%98%81" alt="Typing SVG" />
 </div>
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 10px;">
+
+<div align='center'>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=tmdfyd95@naver.com" target="_blank">
-    <img width="36px" height="36px" src="assets/images/mail.png" />
+    <img width="30px" height="30px" src="assets/images/mail.png" />
   </a>
+  <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/windragon/">
-    <img width="30px" height="30px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" style="border-radius: 7px;"/>
+    <img width="30px" height="30px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" />
   </a>
+  <span>&nbsp;</span>
   <a href="https://www.instagram.com/_win._.dragon_/">
     <img width="30px" height="30px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png" />
   </a>
+  <span>&nbsp;</span>
   <a href="https://careerly.co.kr/profiles/469518?utm_campaign=self-share">
-    <img width="30px" height="30px" src="assets/images/careerly.png" style="border-radius: 7px;" />
+    <img src="assets/svgs/careerly.svg" />
   </a>
 </div>
