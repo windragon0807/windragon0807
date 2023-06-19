@@ -38,4 +38,8 @@
   <a href="https://careerly.co.kr/profiles/469518?utm_campaign=self-share">
     <img width="30px" height="30px" src="assets/svgs/careerly.svg" title="Careerly" />
   </a>
+  <span>&nbsp;</span>
+  <a href="https://ryong.oopy.io/">
+    <img width="30px" height="30px" src="assets/images/blog.png" title="Blog" />
+  </a>
 </div>
