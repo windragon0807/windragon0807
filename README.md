@@ -23,14 +23,8 @@
 <br />
 
 <div align='center'>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=tmdfyd95@naver.com" target="_blank">
-    <img width="30px" height="30px" src="assets/images/mail.png" title="Mail" />
-  </a>
-  <span>&nbsp;</span>
   <a href="https://www.linkedin.com/in/windragon/">
     <img width="30px" height="30px" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png" title="LinkedIn" />
-  </a>
-  <span>&nbsp;</span>
   </a>
   <span>&nbsp;</span>
   <a href="https://ryong.oopy.io/">

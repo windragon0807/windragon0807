@@ -48,8 +48,8 @@
 
         .container {
           width: 100%;
-          height: 430px;
-          padding: 24px;
+          height: 450px;
+          padding: 32px;
           border-radius: 0 0 10px 10px;
           background: #303234;
           display: flex;
@@ -87,7 +87,7 @@
 
         .instruction {
           margin-top: 20px;
-          font-size: 24px;
+          font-size: 28px;
           font-weight: 700;
           color: #797877;
         }
@@ -134,7 +134,7 @@
         <div class='container'>
           <p class='instruction'>안녕하세요!! 👋🏻</p>
           <p class='hello'><span class='anim_text'>어제보다 성장한 코드로 소통하는 개발자 정승룡입니다.</span> 🙂</p>
-          <p class='instruction'>저는 주로 이런 것들을 경험해 봤어요! 🧑🏻‍💻</p>
+          <p class='instruction'>제가 주로 경험한 기술 스택들이에요!! 🧑🏻‍💻</p>
           <div class='icon_row'>
             <img class='img_size_45'
               src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE3LjA5NCAzLjM4N0MxMC40NzktLjUwMyAyLjA3NCA0LjI0OCAyIDExLjkxN2MtLjA3IDcuNDkgNy44NTQgMTIuMzI2IDE0LjQ1NCA5LjAzbC03LjctMTAuOTE0LS4wNSA4LjAxNmMwIC43MjctMS43Mi43MjctMS43MiAwbC4wMTUtMTEuMDY1YzAtLjU3OCAxLjQ1MS0uNjI1IDEuNzU1LS4xMjNsOC42OTMgMTMuNTJjNi4xNy0zLjk3MyA2LjA4Ni0xMy4yMDgtLjM1My0xNi45OTR6bS0uMDc4IDEzLjEzOC0xLjY3Mi0yLjQxVjYuOTg0YzAtLjU0NSAxLjY3Mi0uNTQ1IDEuNjcyIDB2OS41NHoiIGZpbGw9IiNjZmQ4ZGMiLz48L3N2Zz4="
